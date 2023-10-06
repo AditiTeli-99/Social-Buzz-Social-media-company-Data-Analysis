@@ -1,4 +1,4 @@
-##  Telangana-Growth-Analysis
+##  Social Buzz Company (Social Media Company) Data Analysis 
 
 ### **About Social Buzz (A Client of Accenture)**
 
